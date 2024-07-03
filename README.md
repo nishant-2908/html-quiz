@@ -20,7 +20,7 @@ git clone https://www.github.com/nishant-2908/html-quiz.git
 ```
 
 ## Usage
-It is available on [Click here](https://nishant-2908.github.io/html-quiz/).
+It is available [here](https://nishant-2908.github.io/html-quiz/).
 
 ## Contributing
 Contributions are welcome! If you find any issues or have suggestions for improvements, please open an issue or submit a pull request.
